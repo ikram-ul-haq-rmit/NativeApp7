@@ -86,8 +86,8 @@ function App(): React.JSX.Element {
           <Section title="Debug">
             <DebugInstructions />
           </Section>
-          <Section title="Learn More">
-            Read the docs to discover what to do next:
+          <Section title="RMIT Health App">
+            Read the docs to discover what to do next with RMIT Health App:
           </Section>
           <LearnMoreLinks />
         </View>
